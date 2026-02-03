@@ -111,7 +111,7 @@ Figure 1: Database error after injecting single quote ('), confirming lack of in
 
 Proof of Successful Exploitation:
 
-![Proof of Successful Exploitation]()
+![Proof of Successful Exploitation](https://github.com/abhiram507/Portswigger-SQLI-Lab-4/blob/a94d533ed5a07582748600f2ae6f681951c886a3/4%20Proof%20of%20Successful%20Exploitation.png)
 
 Figure 2: Database version string displayed in the product listing after the payload ' UNION SELECT @@version, NULL#, confirming successful query.
 
