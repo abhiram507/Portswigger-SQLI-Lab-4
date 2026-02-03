@@ -104,7 +104,7 @@ Page content includes product table with extra row displaying the database versi
 
 Proof of Error (Injection Test):
 
-![Proof of SQL Injection Error]()
+![Proof of SQL Injection Error](https://github.com/abhiram507/Portswigger-SQLI-Lab-4/blob/484202c93d31676b1b85f32a2ace31cd24e8a87f/4%20Proof%20of%20SQL%20Injection%20Error.png)
 
 Figure 1: Database error after injecting single quote ('), confirming lack of input sanitization and MySQL/MSSQL database.
 
