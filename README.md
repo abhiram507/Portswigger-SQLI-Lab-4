@@ -118,7 +118,7 @@ Figure 2: Database version string displayed in the product listing after the pay
 
 Lab Solved:
 
-![Lab Solved Congratulations]()
+![Lab Solved Congratulations](https://github.com/abhiram507/Portswigger-SQLI-Lab-4/blob/a42f48bac03c22330b9c949391f880ebbae09739/4%20Lab%20Solved%20Congratulations.png)
 
 Figure 3: PortSwigger Academy confirmation of lab completion.
 
